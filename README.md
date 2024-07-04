@@ -27,7 +27,7 @@ npm install
 Run the application:
 
 Copy code
-node app.js
+node index.js
 Open your browser and go to http://localhost:3000.
 
 .gitignore

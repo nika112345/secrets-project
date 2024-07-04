@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/secrets.git
+git clone https://github.com/nika112345/secrets-project.git
 Navigate to the project directory:
 
 bash
